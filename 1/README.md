@@ -7,7 +7,7 @@
 
 1. Установить и настроить [Homestead][Homestead]
 2. Выполнить `vagrant up` и `vagrant ssh` в папке, в которой установлен `Homestead`
-3. Склонировать репозиторий https://github.com/andweb/notamedia-test/1
+3. Склонировать репозиторий https://github.com/andweb/notamedia-test/tree/master/1
 4. Выполнить команду php composer dump-autoload
 5. Выполнить команду php artisan migrate
 6. Выполнить команду php artisan db:seed
